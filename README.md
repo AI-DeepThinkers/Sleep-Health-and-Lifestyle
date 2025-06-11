@@ -30,6 +30,7 @@ Sleep is vital to both physical and mental health. This project uses data-driven
 ### 1. Clone the Repository
 
 ```bash
+https://github.com/AI-DeepThinkers/Sleep-Health-and-Lifestyle.git
 
 ```
 
